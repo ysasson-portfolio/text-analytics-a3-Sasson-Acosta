@@ -14,7 +14,7 @@
 | **Model Implementation** | Implemented and tuned LDA models across the required topic counts | Implemented and tuned NMF models across the required topic counts |
 | **Evaluation / Visualizations** | Completed LDA evaluation metrics and LDA-specific plots/outputs | Completed NMF evaluation metrics, coherence/reconstruction plots, topic word outputs, top-document outputs, and NMF visualizations |
 | **Topic Interpretation** | Shared responsibility; contributed to topic interpretation, naming, and comparison discussion in the joint interpretation notebook | Shared responsibility; contributed to topic interpretation, naming, and comparison discussion in the joint interpretation notebook |
-| **Writing** | Shared responsibility; contributed to written analysis and report development | Shared responsibility; contributed to written analysis and report development, including business insights and recommendations |
+| **Writing** | Shared responsibility; contributed to written analysis and report development, including business insights and recommendations | Shared responsibility; contributed to written analysis and report development, including business insights and recommendations |
 | **Shared Responsibilities** | Dataset choice, pipeline design, interpretation discussion, topic naming review, cross-group comparison, business insights, recommendations, and final report revision | Dataset choice, pipeline design, interpretation discussion, topic naming review, cross-group comparison, business insights, recommendations, and final report revision |
 
 ## Notes
